@@ -1,6 +1,6 @@
 ## Covid 19 Data Analysis
 
-Feel free to collaborate with others on developing this project.  ()
+Feel free to collaborate with others on developing this project.
 
 --- 
 
